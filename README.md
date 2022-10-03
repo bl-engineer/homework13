@@ -64,9 +64,8 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 
 
-# 3 different Walktrough Video: E-Commerce Back End
+# A Walktrough Video: E-Commerce Back End
 
-# Walktrough Video 1:
 a)- Demonstration of how to create the schema from the MySQL shell
 
 b)- Demonstration of how to seed the database from the command line
@@ -75,11 +74,9 @@ c)- Demonstration of how to start the application’s server
 
 d)- Showing GET routes that returns all categories, all products, and all tags on POSTMAN
 
-# Walktrough Video 2:
-Showing GET routes that returns a single category, a single product, and a single tag on POSTMAN
+e)- Showing GET routes that returns a single category, a single product, and a single tag on POSTMAN
 
-# Walktrough Video 3:
-Showing the POST, PUT, and DELETE routes for categories, products and tags on POSTMAN
+f)- Showing the POST, PUT, and DELETE routes for categories, products and tags on POSTMAN
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
