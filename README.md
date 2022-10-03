@@ -61,7 +61,19 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 # Result Screenshots: E-Commerce Back End
 
+<img width="2090" alt="Screen Shot 2022-10-03 at 6 58 40 PM" src="https://user-images.githubusercontent.com/15242022/193702395-72613fd6-e096-4c85-bdc8-b86c6cbc6bc7.png">
 
+<img width="2090" alt="Screen Shot 2022-10-03 at 6 59 06 PM" src="https://user-images.githubusercontent.com/15242022/193702472-bbcb3470-10fc-4ae9-948e-afc5da945a1a.png">
+
+<img width="2090" alt="Screen Shot 2022-10-03 at 6 59 47 PM" src="https://user-images.githubusercontent.com/15242022/193702518-fd9a69af-073f-4209-855d-37f1f192f1a3.png">
+
+<img width="2352" alt="Screen Shot 2022-10-03 at 7 00 25 PM" src="https://user-images.githubusercontent.com/15242022/193702580-6b6aa147-eb19-467d-bdf5-6735b30fbe79.png">
+
+<img width="2524" alt="Screen Shot 2022-10-03 at 7 01 33 PM" src="https://user-images.githubusercontent.com/15242022/193702622-e3ffcb87-e1cc-4889-af6c-265790de0d16.png">
+
+<img width="2524" alt="Screen Shot 2022-10-03 at 7 01 49 PM" src="https://user-images.githubusercontent.com/15242022/193702672-3d997dbc-d12f-476f-8b48-9e6b05b1ae0d.png">
+
+<img width="2524" alt="Screen Shot 2022-10-03 at 7 02 39 PM" src="https://user-images.githubusercontent.com/15242022/193702706-46806441-bebc-4152-8da0-fecef9ebcc04.png">
 
 
 # A Walktrough Video: E-Commerce Back End
