@@ -102,6 +102,9 @@ https://drive.google.com/file/d/17aMElg4qyzz5Hbdp874mEixHxtWAWr1e/view?usp=shari
 
 Showing GET routes that returns all tags,a single tag, POST, PUT and delete routes for tags on POSTMAN.
 
+# Note:
+I added 3 walktrough video instead of one because i wanted to follow the recommendations of Screencastify better maximun time of the lenght of video to 3 minutes.
+
 ---
 © Done by: Bocar Ly
 Assigment: Week 13 Homework 
