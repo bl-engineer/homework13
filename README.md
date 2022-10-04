@@ -76,7 +76,11 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 <img width="2524" alt="Screen Shot 2022-10-03 at 7 02 39 PM" src="https://user-images.githubusercontent.com/15242022/193702706-46806441-bebc-4152-8da0-fecef9ebcc04.png">
 
 
-# A Walktrough Video: E-Commerce Back End
+# 3 Walktrough Videos: E-Commerce Back End
+
+# Walktrough Video 1:
+
+https://drive.google.com/file/d/10qxw-1SDeoCKdRaNKfHzZ2vcSdNFx97j/view?usp=sharing 
 
 a)- Demonstration of how to create the schema from the MySQL shell
 
@@ -84,14 +88,19 @@ b)- Demonstration of how to seed the database from the command line
 
 c)- Demonstration of how to start the application’s server
 
-d)- Showing GET routes that returns all categories, all products, and all tags on POSTMAN
+d)- Showing GET routes that returns all categories,a single category, POST, PUT and delete routes for categories on POSTMAN.
 
-e)- Showing GET routes that returns a single category, a single product, and a single tag on POSTMAN
+# Walktrough Video 2:
 
-f)- Showing the POST, PUT, and DELETE routes for categories, products and tags on POSTMAN
+https://drive.google.com/file/d/1PTctQRIhdNc1RyTuTQwSdLJ4e0Wh9rkI/view?usp=sharing
 
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Showing GET routes that returns all products,a single product, POST, PUT and delete routes for products on POSTMAN.
+
+# Walktrough Video 3:
+
+https://drive.google.com/file/d/17aMElg4qyzz5Hbdp874mEixHxtWAWr1e/view?usp=sharing
+
+Showing GET routes that returns all tags,a single tag, POST, PUT and delete routes for tags on POSTMAN.
 
 ---
 © Done by: Bocar Ly
